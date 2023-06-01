@@ -4,7 +4,7 @@
         "exceljs": "^4.3.0",
         "formdata-node": "^4.4.1",
         "httpntlm": "^1.8.12",
-        "inquirer": "^8.0.0",
+        "inquirer": "^8.2.5",
         "mssql": "^9.1.1",
         "node-sp-auth-config": "^3.0.5",
         "pdf-lib": "^1.17.1",
