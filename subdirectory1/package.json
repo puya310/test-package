@@ -8,7 +8,7 @@
         "mssql": "^9.1.1",
         "node-sp-auth-config": "^3.0.5",
         "pdf-lib": "^1.17.1",
-        "pino": "^8.11.0",
+        "pino": "^8.14.1",
         "pino-pretty": "^10.0.0",
         "request": "^2.88.2",
         "selenium-webdriver": "^4.9.0",
