@@ -5,7 +5,7 @@
         "formdata-node": "^4.4.1",
         "httpntlm": "^1.8.12",
         "inquirer": "^8.0.0",
-        "mssql": "^9.1.1",
+        "mssql": "^10.0.0",
         "node-sp-auth-config": "^3.0.5",
         "pdf-lib": "^1.17.1",
         "pino": "^8.11.0",
